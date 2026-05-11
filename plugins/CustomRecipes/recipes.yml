@@ -1,0 +1,13 @@
+recipes:
+  mace:
+    type: shaped
+    result: mace
+    pattern:
+      - "ABA"
+      - " C "
+      - " D "
+    ingredients:
+      A: SHULKER_SHELL
+      B: DIAMOND_BLOCK
+      C: BLAZE_ROD
+      D: END_ROD
